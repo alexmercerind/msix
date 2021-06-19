@@ -139,7 +139,6 @@ class Manifest {
           </uap:ShowNameOnTiles>
         </uap:DefaultTile>
         <uap:SplashScreen Image="Images\\SplashScreen.png"/>
-        <uap:LockScreen BadgeLogo="Images\\BadgeLogo.png" Notification="badge"/>
       </uap:VisualElements>''';
     }
   }
